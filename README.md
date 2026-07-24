@@ -14,7 +14,7 @@
 </p>
 
 
-![Version](https://img.shields.io/badge/version-2.0.0-blue)
+![Version](https://img.shields.io/badge/version-2.1.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Linux%20\(Ubuntu%2022.04%2B\)-orange)
 ![Electron](https://img.shields.io/badge/Electron-Framework-47848F?logo=electron\&logoColor=white)
 ![License](https://img.shields.io/badge/license-ISC-green)
@@ -98,7 +98,7 @@ Load YouTube
 ## 📦 Installation
 
 ```bash
-sudo dpkg -i youtube*.deb
+sudo dpkg -i ZenPlay*.deb
 ```
 
 **Tested on:** Ubuntu 22.04 LTS+
@@ -140,7 +140,7 @@ This project is an independent application and is not affiliated with, endorsed 
 
 ## 👤 Author
 
-Made with ❤️ by cx051
+Made with ❤️ by erebos
 
 ---
 
