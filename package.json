@@ -1,10 +1,10 @@
 {
-  "name": "youtube",
-  "version": "2.0.1",
-  "description": "YouTube app with ad blocker and performance optimizations",
+  "name": "ZenPlay",
+  "version": "2.1.0",
+  "description": "Media app with ad blocker and performance optimizations",
   "main": "main.js",
-  "author": "cx051",
-  "homepage": "https://github.com/cx051/youtube-app",
+  "author": "erebos",
+  "homepage": "https://github.com/erebos/ZenPlay",
   "license": "ISC",
   "scripts": {
     "start": "electron .",
@@ -25,8 +25,8 @@
     "electron-builder": "^26.8.1"
   },
   "build": {
-    "appId": "com.cx051.youtubeapp",
-    "productName": "YouTubeApp",
+    "appId": "com.erebos.ZenPlay",
+    "productName": "ZenPlay",
     "files": [
       "index.html",
       "splash.html",
@@ -46,13 +46,13 @@
       "target": [
         "deb"
       ],
-      "icon": "assets/YouTube (original).png",
+      "icon": "assets/ZenPlay.png",
       "category": "Video",
       "maintainer": "cx051"
     },
     "win": {
       "target": "nsis",
-      "icon": "assets/YouTube.ico"
+      "icon": "assets/ZenPlay.png"
     },
     "nsis": {
       "oneClick": false,
