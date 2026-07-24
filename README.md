@@ -1,12 +1,12 @@
 
-<h1 align="center">YouTubeApp</h1>
+<h1 align="center">ZenPlay</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:8B0000,100:000000&height=140&section=header&text=&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:C9A227,100:FFD700&height=140&section=header&text=&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="assets/YouTube.svg" width="120" />
+  <img src="assets/ZenPlay.png" width="120" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ## 🎬 Overview
 
-YouTubeApp is a lightweight Electron-based desktop client designed for a **fast, clean, and distraction-free YouTube experience**.
+ZenPlay is a lightweight Electron-based desktop client designed for a **fast, clean, and distraction-free YouTube experience**.
 
 It uses **comprehensive filter-list based ad blocking** to ensure minimal interruptions and optimal playback.
 
@@ -108,7 +108,7 @@ sudo dpkg -i youtube*.deb
 ## 📁 Project Structure
 
 ```bash
-YouTubeApp/
+ZenPlay/
 ├── assets/
 ├── scripts/
 ├── main.js
