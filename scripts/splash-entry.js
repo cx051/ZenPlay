@@ -45,7 +45,7 @@ const SplashScreen = () => (
         </motion.span>
       )}
     >YouTube</SplitText>
-    <div style={{marginTop: 22, fontSize: 16, color: '#ff5e5e', fontWeight: 300, letterSpacing: 1, opacity: 0.85, fontFamily: 'monospace'}}>made with ♥ by cx051</div>
+    <div style={{marginTop: 22, fontSize: 16, color: '#ff5e5e', fontWeight: 300, letterSpacing: 1, opacity: 0.85, fontFamily: 'monospace'}}>made with ♥ by AX3ON</div>
   </div>
 );
 
